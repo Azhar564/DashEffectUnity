@@ -1,4 +1,4 @@
 # DashEffectUnity
 Test Effect
 
-![til](https://raw.githubusercontent.com/Azhar564/DashEffectUnity/main/SimpleDashEffect/Recordings/Take1.gif)
+![Take1](https://github.com/Azhar564/DashEffectUnity/blob/main/SimpleDashEffect/Recordings/Take1.gif)
